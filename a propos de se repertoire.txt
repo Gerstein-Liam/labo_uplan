@@ -1,0 +1,30 @@
+Norbert on défini ici le but de ce repertoire et son organisation. Tu peux bien entendu modifier ce fichier a tout moment.
+
+Le but: Tester des technologies, réaliser des prototypes de fonction qu'on va utiliser. 
+
+
+En ce qui concerne l'organisation de ce repertoire c'est simple, un répertoire pour les développement et un pour la doc 
+
+Organisation:
+	labo_uplan
+			-Developpement
+					--Developpement X
+							---Code X
+							---Doc  X
+							
+			-Doc englobant tout le projet
+					--Conception
+					--Technologie
+					--Cout de deploiement
+					--Marketing
+					Etc...
+
+					
+-------------------------------------------------------------------------------------------------------
+Je propose qu'on y mette dans un premier temps:
+
+1) Un petit PDF expliquant les technologies qu'on va utiliser à l'aide d'un schéma "client-serveur" simple
+2) D'y mettre nos pans de développement toujours accompagné d'un micro-rapport expliquant comment il fonctionne pour qu'on puisse se comprendre
+
+
+Pour le moment je vois rien d'autre,libre a toi d'y mettre ce que tu veux :)
