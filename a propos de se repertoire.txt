@@ -3,7 +3,7 @@ Norbert on défini ici le but de ce repertoire et son organisation. Tu peux bien 
 Le but: Tester des technologies, réaliser des prototypes de fonction qu'on va utiliser. 
 
 
-En ce qui concerne l'organisation de ce repertoire c'est simple, un répertoire pour les développement et un pour la doc 
+En ce qui concerne l'organisation de ce repertoire c'est simple, un répertoire pour les développement et un pour la doc relatif au projet, un pour de la documents techniques [ tuto, site qui référence les méthodes d'un langages,etc]
 
 Organisation:
 	labo_uplan
@@ -11,12 +11,21 @@ Organisation:
 					--Developpement X
 							---Code X
 							---Doc  X
+					--Developpement Y
+							---Code Y
+							---Doc  Y
 							
 			-Doc englobant tout le projet
 					--Conception
 					--Technologie
 					--Cout de deploiement
 					--Marketing
+					--ETC...
+			-Doc technique
+					--Tuto sur angulars,asp
+					--Article sur les technologies qui on le vent en poupe
+					--Offre d'hebergement ISS
+					--ETC...
 					Etc...
 
 					
